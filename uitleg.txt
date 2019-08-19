@@ -1,0 +1,4 @@
+Dit is een chrome extensie die automatisch van minerva.ugent.be naar ufora.ugent.be navigeert.
+voor mocht ge in de war ofzo zijn he :)
+
+made by Tessa Ickx
