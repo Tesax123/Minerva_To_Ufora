@@ -1,0 +1,22 @@
+{
+    "name": "The way to Ufora",
+    "version": "1.0",
+    "description": "Op naar Ufora in plaats van Minerva.",
+    "author": "Tessa Ickx",
+    "permissions": [
+        "webRequest",
+        "storage",
+        "tabs",
+        "notifications",
+        "webRequestBlocking",
+        "*://*.minerva.ugent.be/"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": true
+    },
+
+    "manifest_version": 2
+}
